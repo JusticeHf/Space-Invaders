@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>img/block1.png</file>
+        <file>img/block2.png</file>
+        <file>img/block3.png</file>
+        <file>img/bullet.png</file>
+        <file>img/enemy_bullet.png</file>
+        <file>img/enemy1.png</file>
+        <file>img/enemy2.png</file>
+        <file>img/enemy21.png</file>
+        <file>img/enemy22.png</file>
+        <file>img/enemy31.png</file>
+        <file>img/enemy32.png</file>
+        <file>img/gun.png</file>
+        <file>img/line.png</file>
+        <file>img/ship.png</file>
+        <file>img/Title-screen-and-illustration-of-gameplay-for-Space-Invaders-1.png</file>
+        <file>img/game-over.png</file>
+    </qresource>
+</RCC>
